@@ -1,0 +1,44 @@
+{
+  "missingLink": [
+    {
+      "id": "ml-1",
+      "gridSize": 5,
+      "pathIndices": [5, 6, 7, 12, 17, 16, 15],
+      "gapIndex": 12
+    },
+    {
+      "id": "ml-2",
+      "gridSize": 5,
+      "pathIndices": [0, 1, 2, 7, 12, 11, 10, 9],
+      "gapIndex": 7
+    },
+    {
+      "id": "ml-3",
+      "gridSize": 5,
+      "pathIndices": [20, 15, 10, 5, 0, 1, 2],
+      "gapIndex": 10
+    }
+  ],
+  "gridWeights": [
+    {
+      "id": "gw-1",
+      "leftFilled": [0, 1, 4, 7],
+      "rightFilled": [0, 3, 6, 7, 8]
+    },
+    {
+      "id": "gw-2",
+      "leftFilled": [1, 2, 4, 5, 8],
+      "rightFilled": [0, 2, 4]
+    },
+    {
+      "id": "gw-3",
+      "leftFilled": [0, 3, 6],
+      "rightFilled": [1, 2, 4, 5, 7, 8]
+    }
+  ],
+  "memoryBlitz": [
+    { "id": "mb-1", "patternIndices": [1, 4, 6, 9] },
+    { "id": "mb-2", "patternIndices": [0, 3, 5, 10, 15] },
+    { "id": "mb-3", "patternIndices": [2, 7, 8, 11, 14] }
+  ]
+}
